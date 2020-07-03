@@ -2,4 +2,4 @@
 A Small Stealth Game
 
 
-Play it Here :https://pedroavelino.itch.io/pinky
+Play it Here :https://garlicnoodles.itch.io/pinky
